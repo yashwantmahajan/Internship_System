@@ -36,5 +36,5 @@ $db   = "internship_system";
 3.  Open your browser and visit: `http://localhost/internship_system`
 
 ## Default Login Credentials
-- **Admin**: `admin@test.com` / `admin123`
+
 - **Students/Companies**: Register a new account to test.
